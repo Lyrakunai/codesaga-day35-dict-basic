@@ -36,7 +36,3 @@ Dictionary Basics in Python (key-value pairs)
 ## 📊 Status
 - Completed Day35
 - see day35_dict_basic.py
- 
-✔ Practice done  
-✔ Debugging done  
-✔ Mini challenge complete
